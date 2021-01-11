@@ -1,10 +1,7 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: High School
+  institute: Classical Academy High School
+  dates: 2018 - 2022
+  logo: https://files.gorepu.com/organizations/cahs-1792/school-logo-new/2018-09-14_5b9c48989863b-full.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
+
   
